@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - YDCategorySDK (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - YDCategorySDK (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  YDCategorySDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  YDCategorySDK: 6dd32e61122a09c9d856fdc2193dc7f96169549a
+
+PODFILE CHECKSUM: 7e15cf09cd0fac28748825b5bf8182d0b2617a70
+
+COCOAPODS: 1.8.4

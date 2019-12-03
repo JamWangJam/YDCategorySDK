@@ -1,0 +1,6 @@
+framework module Pods_YDCategorySDK_Example {
+  umbrella header "Pods-YDCategorySDK_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
